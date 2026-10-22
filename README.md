@@ -18,7 +18,7 @@ Indian college students looking for AI/ML and data science internships.
 4. Ranks results against the student's skills and drafts a short cover letter
 
 ## Try it
-- Agentverse profile: <[paste your agent profile URL](https://agentverse.ai/agents/details/agent1qdqnzy9gu4849tn7jxzkranpfk60mptjlff3gz7vvlsyvearwdzf7qf4gn0/profile)>
+- Agentverse profile: <(https://agentverse.ai/agents/details/agent1qdqnzy9gu4849tn7jxzkranpfk60mptjlff3gz7vvlsyvearwdzf7qf4gn0/profile)]>
 - ASI:One shared chat: https://asi1.ai/shared-chat/2873aaf7-2e17-440c-9775-1d3f2bd9d414
 
 Example prompts in ASI:One:
