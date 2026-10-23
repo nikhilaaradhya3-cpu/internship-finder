@@ -13,7 +13,7 @@ Indian college students looking for AI/ML and data science internships.
 
 ## What the agent does
 1. Searches the Jooble API for live listings (several keyword variants, deduplicated)
-2. Labels each result as Internship or Junior-level and removes senior roles
+2. Labels each result as Internship or Entry-level and removes senior titles
 3. Falls back to the Remotive API if Jooble fails or returns nothing
 4. Ranks results against the student's skills and drafts a short cover letter
 
