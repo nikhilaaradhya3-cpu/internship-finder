@@ -2,6 +2,7 @@
 ![tag:hackathon](https://img.shields.io/badge/hackathon-5F43F1)
 
 **Agent name:** Internship Finder (@internship-finder)
+
 **Agent address:** agent1qdqnzy9gu4849tn7jxzkranpfk60mptjlff3gz7vvlsyvearwdzf7qf4gn0
 **Extra resource needed:** a free Jooble API key (jooble.org/api/about)
 
