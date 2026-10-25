@@ -12,7 +12,7 @@ An AI agent on Fetch.ai Agentverse that helps Indian college students find **liv
 | **Agent address** | `agent1qdqnzy9gu4849tn7jxzkranpfk60mptjlff3gz7vvlsyvearwdzf7qf4gn0` |
 | **Agentverse profile** | https://agentverse.ai/agents/details/agent1qdqnzy9gu4849tn7jxzkranpfk60mptjlff3gz7vvlsyvearwdzf7qf4gn0/profile |
 | **Shared ASI:One chat (demo)** | https://asi1.ai/chat/888ae4b5-6113-49a0-a8c2-0036fb5d85a0?from=profile&handle=internship-finder |
-| **Demo video** | `<ADD VIDEO LINK>` |
+| **Demo video** |https://youtu.be/-Yv_d_p4wkU|
 
 ## The problem
 
